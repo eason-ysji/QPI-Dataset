@@ -1,6 +1,6 @@
 # QPI-Dataset
 Scatterer Dataset - 64×64 Resolution, 100×100 Å FOV
-This dataset contains synthetic 2D images generated from scattering kernels of atomic-scale features. The images are 64×64 pixels in resolution, corresponding to a 100×100 Å (Angstroms) field of view (FOV). Each image is constructed from contributions of up to 100 scatterers positioned in real space.
+This dataset contains synthetic 2D images generated from scattering kernels of atomic-scale features. The images are 64×64 pixels in resolution, corresponding to a 100×100 Å (Angstroms) field of view (FOV). Each image is constructed from contributions of up to 100 scatterers positioned in real space. (The files are in the tag)
 
 📁 File Format Overview
 Each file in this dataset contains a set of rows with structured numerical data. The contents are organized as follows:
